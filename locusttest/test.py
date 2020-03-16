@@ -21,3 +21,5 @@ if __name__ == '__main__':
     import os
 
     os.system('locust -f test.py --host=https://m.jiuxiao2.cn')
+
+# http://localhost:8089/
